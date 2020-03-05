@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="start_button">START</string>
+    <string name="info_button">INFO</string>
+    <string name="next_button">NEXT</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="win_text">Wygrana!!!\nGratulacje!!!</string>
+    <string name="los_text">Przegrałeś!!!</string>
+    <string name="info_text">Artur Kardas\n\nAplikacje Mobilne</string>
+    <string name="name_of_lives_description">lives</string>
+    <string name="name_of_punkts_description">punkts</string>
+</resources>

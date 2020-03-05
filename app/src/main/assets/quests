@@ -1,0 +1,144 @@
+{
+  "3":
+  {
+    "quest": "Która z rzek NIE przepływa przez Amerykę Południową?",
+    "caller":"getPoiById",
+    "A": "Parana",
+    "B": "Jurua",
+    "C": "Amur",
+    "D": "Orinoko",
+    "correct": "C"
+  },
+
+  "4":
+  {
+    "quest": "Nietoperz to:",
+    "caller":"getPoiById",
+    "A": "Ssak",
+    "B": "Ptak",
+    "C": "Dinozaur",
+    "D": "Ryba",
+    "correct": "A"
+  },
+
+  "5":
+  {
+    "quest": "Który z tych płazów jest największy",
+    "caller":"getPoiById",
+    "A": "Wąż boa",
+    "B": "Waran",
+    "C": "Żaba",
+    "D": "Ropucha",
+    "correct": "A"
+  },
+
+  "6":
+  {
+    "quest": "Który miesiąc ma 28 dni?",
+    "caller":"getPoiById",
+    "A": "Luty",
+    "B": "Luty w roku przestępnym",
+    "C": "Każdy",
+    "D": "Lipiec",
+    "correct": "A"
+  },
+
+  "7":
+  {
+    "quest": "Każdy kij ma dwa końce. Ile kńców ma 7,5 kija?",
+    "caller":"getPoiById",
+    "A": "7,5",
+    "B": "15",
+    "C": "16",
+    "D": "6",
+    "correct": "C"
+  },
+
+  "8":
+  {
+    "quest": "Co pływa po kanale Weneckim?",
+    "caller":"getPoiById",
+    "A": "ponton",
+    "B": "gondola",
+    "C": "galera",
+    "D": "żaglówka",
+    "correct": "B"
+  },
+
+  "9":
+  {
+    "quest": "Który z oceanów jest największy?",
+    "caller":"getPoiById",
+    "A": "Spokojny",
+    "B": "Indyjski",
+    "C": "Atlantycki",
+    "D": "Arktyczny",
+    "correct": "A"
+  },
+
+  "10":
+  {
+    "quest": "Jaka jest najbliższa gwiazda Ziemi?",
+    "caller":"getPoiById",
+    "A": "Syriusz",
+    "B": "Łabędzia",
+    "C": "Polarna",
+    "D": "Słońce",
+    "correct": "D"
+  },
+
+  "11":
+  {
+    "quest": "Jak nazywa się zjawisko świetlne obserwowane tylko na biegunie?",
+    "caller":"getPoiById",
+    "A": "zorza polarna",
+    "B": "miraż",
+    "C": "tęcza",
+    "D": "łuna",
+    "correct": "A"
+  },
+
+  "12":
+  {
+    "quest": "Jaki jest najstarszy uniwersytet w Polsce?",
+    "caller":"getPoiById",
+    "A": "Jagielloński",
+    "B": "Warszawski",
+    "C": "Gdański",
+    "D": "Toruński",
+    "correct": "A"
+  },
+
+  "13":
+  {
+    "quest": "Jak nazywa się państwo produkujące samochody Alfa Romeo?",
+    "caller":"getPoiById",
+    "A": "Francja",
+    "B": "Włochy",
+    "C": "Hiszpania",
+    "D": "Luksemburg",
+    "correct": "B"
+  },
+
+  "14":
+  {
+    "quest": "Jak nazywa się najgłębsze jezioro świata?",
+    "caller":"getPoiById",
+    "A": "Czad",
+    "B": "Bajkał",
+    "C": "Ontario",
+    "D": "Michigan",
+    "correct": "B"
+  },
+
+  "15":
+  {
+    "quest": "Jak nazywa się ptak w godle Polski?",
+    "caller":"getPoiById",
+    "A": "myszołów",
+    "B": "jastrzął",
+    "C": "orzeł",
+    "D": "sokół",
+    "correct": "C"
+  }
+}
